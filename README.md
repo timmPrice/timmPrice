@@ -1,16 +1,22 @@
 ## Hi there 👋
+- I’m a junior B/S Computer Science student at Augusta University
 
-<!--
-**timmPrice/timmPrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently interested in
+    - compilers and interpreters
+    - transpilers 
+    - embedded systems
+    - keyboards
+    - zig
 
-Here are some ideas to get you started:
+- I have been daily driving Fedora for over a year. NeoVim btw.
+- Check out my [website](https://timmprice.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m primarily work with 
+    - c#
+    - c
+    - python
+    - golang
+    - javascript, html, css
+    - tailwind css
+
+![]()
