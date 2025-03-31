@@ -1,22 +1,21 @@
-## Hi there 👋
+### Hey 👋
 - I’m a junior B/S Computer Science student at Augusta University
 
 - I’m currently interested in
     - compilers and interpreters
     - transpilers 
-    - embedded systems
+    - docker/kubernetes
     - keyboards
     - zig
+    - riscv asm
 
 - I have been daily driving Fedora for over a year. NeoVim btw.
 - Check out my [website](https://timmprice.github.io)
 
-- I’m primarily work with 
-    - c#
-    - c
-    - python
-    - golang
-    - javascript, html, css
-    - tailwind css
+- I’m pretty good at work with 
+    - GO, C, C#, python
+    - Bash, Linux (Fedora, NixOS), Docker
+    - javascript, html, css, tailwind css 
+    - CAD (blender, KiCAD, Fusion 360)
 
 ![](https://github.com/timmPrice/timmPrice/blob/8427cc399e0516f1e4a5d17da380053bdb6cb883/catjam.gif)
