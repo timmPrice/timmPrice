@@ -10,7 +10,7 @@
     - riscv asm
 
 - I have been daily driving Fedora for over a year. NeoVim btw.
-- Check out my [website](https://timmprice.github.io)
+- Check out my [website↗](https://timmprice.github.io)
 
 - I’m pretty good at work with 
     - GO, C, C#, python
