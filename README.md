@@ -12,7 +12,7 @@
 - I have been daily driving Fedora for over a year. NeoVim btw.
 - Check out my [website↗](https://timmprice.github.io)
 
-- I’m pretty good at work with 
+- I typically work with...
     - GO, C, C#, python
     - Bash, Linux (Fedora, NixOS), Docker
     - javascript, html, css, tailwind css 
