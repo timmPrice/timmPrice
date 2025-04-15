@@ -4,10 +4,9 @@
 - I’m currently interested in
     - compilers and interpreters
     - transpilers 
-    - docker/kubernetes
+    - FPGAs
     - keyboards
-    - zig
-    - riscv asm
+    - rust
 
 - I have been daily driving Fedora for over a year. NeoVim btw.
 - Check out my [website↗](https://timmprice.github.io)
