@@ -13,7 +13,7 @@
 - Check out my [website↗](https://timmprice.github.io)
 
 - I typically work with...
-    - GO, C, C#, python
+    - C#, python, rust
     - Bash, Linux (Fedora, NixOS), Docker
     - javascript, html, css, tailwind css 
     - CAD (blender, KiCAD, Fusion 360)
