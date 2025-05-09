@@ -7,7 +7,7 @@
     - transpilers 
     - FPGAs
     - keyboards
-    - rust
+    - Rust
 
 - I have been daily driving Fedora for over a year. NeoVim btw.
 - Check out my [website↗](https://timmprice.github.io)
