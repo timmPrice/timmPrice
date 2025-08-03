@@ -7,7 +7,7 @@
     - transpilers 
     - FPGAs
     - Keyboards and Stenography
-    - Functional Programming (OCAML)
+    - Functional Programming
 
 - I have been daily driving Fedora for over a year. NeoVim btw.
 - Check out my [website↗](https://timmprice.github.io)
