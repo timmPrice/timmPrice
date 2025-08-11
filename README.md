@@ -4,10 +4,7 @@
 - I’m currently interested in
     - Compilers and Interpreters
     - Chess Engines
-    - transpilers 
-    - FPGAs
     - Keyboards and Stenography
-    - Functional Programming
 
 - I have been daily driving Fedora for over a year. NeoVim btw.
 - Check out my [website↗](https://timmprice.github.io)
@@ -15,7 +12,7 @@
 - I typically work with...
     - C#, Python, Go
     - Bash, Linux (Fedora currently), Docker
-    - websites ~ javascript/typescript, html, css, tailwind css 
+    - websites ~ javascript/typescript, html, css, tailwind css, htmx
     - CAD (blender, KiCAD, Fusion 360)
 
 - get in touch via discord, my username is "tim.price"
