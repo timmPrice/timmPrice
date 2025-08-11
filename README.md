@@ -15,5 +15,4 @@
     - websites ~ javascript/typescript, html, css, tailwind css, htmx
     - CAD (blender, KiCAD, Fusion 360)
 
-- get in touch via discord, my username is "tim.price"
 <!-- ![](https://github.com/timmPrice/timmPrice/blob/8427cc399e0516f1e4a5d17da380053bdb6cb883/catjam.gif) -->
