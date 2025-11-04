@@ -10,9 +10,8 @@
 - Check out my [website↗](https://timmprice.github.io)
 
 - I typically work with...
-    - C#, Python, Go
+    - C#, Python, C
     - Bash, Linux (Fedora currently), Docker
-    - websites ~ javascript/typescript, html, css, tailwind css, htmx
     - CAD (blender, KiCAD, Fusion 360)
 
 <!-- ![](https://github.com/timmPrice/timmPrice/blob/8427cc399e0516f1e4a5d17da380053bdb6cb883/catjam.gif) -->
