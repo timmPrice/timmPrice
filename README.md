@@ -1,5 +1,5 @@
 ### Hey 👋
-- I’m a junior B/S Computer Science student at Augusta University
+- I’m a senior B/s Computer Science student at Augusta University
 - I'm currently interning @ GMPPU for I.T. support and admin 
 
 - I’m currently interested in
